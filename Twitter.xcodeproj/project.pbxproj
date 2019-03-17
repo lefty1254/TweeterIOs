@@ -16,6 +16,7 @@
 		E64DF8802235C14100528216 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64DF87F2235C14100528216 /* HomeTableViewController.swift */; };
 		E64DF8822236301C00528216 /* TweetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64DF8812236301C00528216 /* TweetCell.swift */; };
 		E65B417B2235588100852DD1 /* LogingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65B417A2235588100852DD1 /* LogingViewController.swift */; };
+		E6C3F0E6223EB72900B7766B /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C3F0E5223EB72900B7766B /* TweetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		E64DF87F2235C14100528216 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		E64DF8812236301C00528216 /* TweetCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCell.swift; sourceTree = "<group>"; };
 		E65B417A2235588100852DD1 /* LogingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogingViewController.swift; sourceTree = "<group>"; };
+		E6C3F0E5223EB72900B7766B /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				E65B417A2235588100852DD1 /* LogingViewController.swift */,
 				E64DF87F2235C14100528216 /* HomeTableViewController.swift */,
 				E64DF8812236301C00528216 /* TweetCell.swift */,
+				E6C3F0E5223EB72900B7766B /* TweetViewController.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			files = (
 				E64DF8802235C14100528216 /* HomeTableViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
+				E6C3F0E6223EB72900B7766B /* TweetViewController.swift in Sources */,
 				E64DF8822236301C00528216 /* TweetCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
 				E65B417B2235588100852DD1 /* LogingViewController.swift in Sources */,
